@@ -10,8 +10,7 @@ I rate Limbo out of 10, I rate limbo a 9 out of 10.
 
 ## Summary
 
-LIMBO is a black and white 2 side scroller with very dark elements. In LIMBO you play as a boy who enters limbo in search of his
-sister. The controls are simple, arrow keys to move and control to grab things. The first area just requires you to move forward
+LIMBO is a black and white 2 side scroller with very dark elements. In LIMBO you play as a boy who enters limbo in search of his sister. The controls are simple, arrow keys to move and control to grab things. The first area just requires you to move forward
 and move a cart to jump on to proceed, easy start. After that you simply progress forward and use a boat to get across a lake and
 avoid some bear traps.
 
