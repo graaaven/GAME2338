@@ -1,18 +1,19 @@
-Playtest for [Game Title]
-Game Publisher
-Game Rating
-Game Title Website
+Playtest for [Bounce Ball]
+SP digital arts inc.
+no game rating
+https://store.steampowered.com/app/721080/
+
 Question: During your playtesting where the rules of the game understandable? If not, what was not clear.
 
-Answer: Your answer here
+Answer: The rules were clear, though I missed some of them because the tutorial got boring I missed the fact that you can move where the ball is shot from and change the angle it's shot at.
 
 Question: During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 
-Answer: Your answer here
+Answer: 3D view, the 3D is so confusing to see things and just makes things harder so U always use 2D mode where you get a downview angle on the level. 
 
 Question: Is this game balanced? If not, what is the target audience for this game based on that imbalance?
 
-Answer: Your answer here
+Answer: I think the game is fairly balanced for the hard and the easy difficulties.
 
 Question: Does the timing of this game appear to be about right for this type of game?
 
