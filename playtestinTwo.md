@@ -17,16 +17,16 @@ Answer: I think the game is fairly balanced for the hard and the easy difficulti
 
 Question: Does the timing of this game appear to be about right for this type of game?
 
-Answer: Your answer here
+Answer: The timing for this game seems a bit weird since not that many puzzle games these days
 
 Question: During gameplay did the mechanics and theme go together and reinforce each other?
 
-Answer: Your answer here
+Answer: no, both felt different and isolated from eachother.
 
 Question: Did you have fun playing this game?
 
-Answer: Your answer here
+Answer: yes, but mostly in short bursts as lot of the setup to completing levels was boring but taking a shot in the dark and hoping the level would be completed after like 30 bounces was pretty great when it worked.
 
 Question: During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
 
-Answer: Your answer here
+Answer: There was a bug when I tried to place something down off of the map and it let me do it and I couldn't get it back.
