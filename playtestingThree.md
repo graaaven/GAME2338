@@ -17,10 +17,10 @@
 > _Answer:_ yes.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
-> _Answer:_ Your answer here
+> _Answer:_ yes.
 
 **Question:** Did you have fun playing this game?
-> _Answer:_ Your answer here
+> _Answer:_ I had a bit of fun.
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ Your answer here
+> _Answer:_ I noticed one or two instances of hitboxes lasting longer than they should be.
