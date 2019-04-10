@@ -1,5 +1,4 @@
-What is the name of the test tool?
-Selenium.
+<h5> Selenium </h5>
 
 What company developed this test tool?
 ThoughtWorks.
