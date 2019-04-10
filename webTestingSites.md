@@ -26,4 +26,4 @@ Micro Focus.
 Give at least 3 features of this test tool.
 -HP QuickTest professional has test case storage
 -HP QuickTest professional has recording, editing, and debugging of functional tests
--HP QuickTest professional is automated, seems to work with web-based tools, and test cases can be written in  VBA, Java, or VB.NET.
+-HP QuickTest professional is automated, seems to work with web-based tools, and test cases can be written in  VBA, Java, or VB.NET..
