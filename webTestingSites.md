@@ -1,9 +1,9 @@
 <h2> testing tool one </h2>
 
-What was the name of the test tool?
+What was the name of the test tool? <br />
 Selenium
 
-What company developed this test tool?
+What company developed this test tool?<br />
 ThoughtWorks.
 
 Give at least 3 features of this test tool. <br />
@@ -13,10 +13,10 @@ Give at least 3 features of this test tool. <br />
 
 <h2> testing tool two </h2>
 
-What was the name of the test tool?
+What was the name of the test tool?<br />
 Renorex
 
-What company developed this test tool?
+What company developed this test tool?<br />
 Ranorex GmbH.
 
 Give at least 3 features of this test tool. <br />
@@ -26,10 +26,10 @@ Give at least 3 features of this test tool. <br />
 
 <h2> testing tool three </h2>
 
-What was the name of the test tool?
+What was the name of the test tool?<br />
 HP QuickTest professional
 
-What company developed this test tool?
+What company developed this test tool?<br />
 Micro Focus.
 
 Give at least 3 features of this test tool. <br />
