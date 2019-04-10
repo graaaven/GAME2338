@@ -8,8 +8,7 @@ Give at least 3 features of this test tool.
 -Selenium has recording, editing, and debugging of functional tests
 -Selenium is automated, seems to work with web-based tools, and test cases can be written in C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala.
 
-What is the name of the test tool?
-renorex.
+<h5> Renorex </h5>
 
 What company developed this test tool?
 Ranorex GmbH.
@@ -19,8 +18,7 @@ Give at least 3 features of this test tool.
 -renorex has a playback tool for function tests even usable for mobile.
 -renorex is automated, works with web-based tools, and test cases can be written in C# and VB.NET.
 
-What is the name of the test tool?
-HP QuickTest professional.
+<h5> HP QuickTest professional </h5>
 
 What company developed this test tool?
 Micro Focus.
@@ -28,4 +26,4 @@ Micro Focus.
 Give at least 3 features of this test tool.
 -HP QuickTest professional has test case storage
 -HP QuickTest professional has recording, editing, and debugging of functional tests
--HP QuickTest professional is automated, seems to work with web-based tools, and test cases can be written in C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala.
+-HP QuickTest professional is automated, seems to work with web-based tools, and test cases can be written in  VBA, Java, or VB.NET.
