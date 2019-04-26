@@ -1,0 +1,142 @@
+{
+  "id": "e67340af-c27f-464d-9dbd-4d5c52a0f4ae",
+  "version": "2.0",
+  "name": "github",
+  "url": "https://github.com",
+  "tests": [{
+    "id": "eced63bf-0bef-470c-bd8e-3c03b1fcfdda",
+    "name": "github",
+    "commands": [{
+      "id": "0d168509-8106-4659-8391-84bb501ad209",
+      "comment": "",
+      "command": "open",
+      "target": "/graaaven/GAME2338/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a992661f-4276-4885-aa01-4aaecbd56a5b",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1040",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "239b78c1-e450-422a-9779-1f6a568f47b9",
+      "comment": "",
+      "command": "click",
+      "target": "css=span:nth-child(2) > .js-selected-navigation-item",
+      "targets": [
+        ["css=span:nth-child(2) > .js-selected-navigation-item", "css:finder"],
+        ["xpath=//main[@id='js-repo-pjax-container']/div/nav/span[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/graaaven/GAME2338/issues')])[2]", "xpath:href"],
+        ["xpath=//span[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b3559fab-6b60-4bc9-b206-ca990eff4789",
+      "comment": "",
+      "command": "click",
+      "target": "css=span:nth-child(3) > .js-selected-navigation-item",
+      "targets": [
+        ["css=span:nth-child(3) > .js-selected-navigation-item", "css:finder"],
+        ["xpath=//main[@id='js-repo-pjax-container']/div/nav/span[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/graaaven/GAME2338/pulls')]", "xpath:href"],
+        ["xpath=//span[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7a5cf3e3-12a8-4108-97a5-5723ab767280",
+      "comment": "",
+      "command": "click",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.header-search-input", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "831bad2b-330b-41b2-b1a5-447b3233cb45",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.header-search-input", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//label/input", "xpath:position"]
+      ],
+      "value": "cmacdougald/GAME2238"
+    }, {
+      "id": "4a43ea59-c2ed-469b-85ba-df5a9f6b8c93",
+      "comment": "",
+      "command": "click",
+      "target": "css=#jump-to-suggestion-search-global .jump-to-suggestion-name",
+      "targets": [
+        ["css=#jump-to-suggestion-search-global .jump-to-suggestion-name", "css:finder"],
+        ["xpath=//li[@id='jump-to-suggestion-search-global']/a/div[2]", "xpath:idRelative"],
+        ["xpath=//li[2]/a/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "94bf6ac3-d683-4519-a97d-75b45af84b11",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-item:nth-child(2)",
+      "targets": [
+        ["css=.menu-item:nth-child(2)", "css:finder"],
+        ["xpath=//main[@id='js-pjax-container']/div/div[2]/nav/a[2]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/search?q=cmacdougald%2FGAME2238&type=Code')]", "xpath:href"],
+        ["xpath=//div[2]/nav/a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e984e925-7ec8-4e25-846c-32b9cff68e22",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-item:nth-child(3)",
+      "targets": [
+        ["css=.menu-item:nth-child(3)", "css:finder"],
+        ["xpath=//main[@id='js-pjax-container']/div/div[2]/nav/a[3]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/search?q=cmacdougald%2FGAME2238&type=Commits')]", "xpath:href"],
+        ["xpath=//div[2]/nav/a[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "23205774-fee6-4153-9256-ce948b8e068c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-item:nth-child(4)",
+      "targets": [
+        ["css=.menu-item:nth-child(4)", "css:finder"],
+        ["xpath=//main[@id='js-pjax-container']/div/div[2]/nav/a[4]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/search?q=cmacdougald%2FGAME2238&type=Issues')]", "xpath:href"],
+        ["xpath=//div[2]/nav/a[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "06b8f7a9-e2d9-49e3-9fc3-4ce46cea80c0",
+      "comment": "",
+      "command": "click",
+      "target": "id=js-pjax-container",
+      "targets": [
+        ["id=js-pjax-container", "id"],
+        ["css=#js-pjax-container", "css:finder"],
+        ["xpath=//main[@id='js-pjax-container']", "xpath:attributes"],
+        ["xpath=//main", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "2f9c8ad1-b52b-4211-a46f-321c4901e3ae",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["eced63bf-0bef-470c-bd8e-3c03b1fcfdda"]
+  }],
+  "urls": ["https://github.com/"],
+  "plugins": []
+}
